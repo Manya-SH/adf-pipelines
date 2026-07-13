@@ -1,0 +1,15 @@
+{
+	"name": "adfpractice12026",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "126001b8-a43d-4a37-8d51-4e7a9ec2ae10",
+		"tenantId": "aec0796c-6ac7-46aa-a764-177af4994824"
+	}
+}
